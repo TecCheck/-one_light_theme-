@@ -1,6 +1,8 @@
 # One Light Theme
 A Home Assistant theme inspired by atoms one light theme.
 
+There is also [One Dark](https://github.com/TecCheck/one_dark_theme)
+
 ### Screenshots
 
 **This is work in progress**
