@@ -9,13 +9,13 @@ There is also [One Dark](https://github.com/TecCheck/one_dark_theme)
 
 **1. Desktop**
 <p align="center">
-  <!--img src="https://i.imgur.com/CS3N3kB.png"-->
+  <img src="https://raw.githubusercontent.com/TecCheck/one_light_theme/master/res/screenshot_desktop.png">
 </p>
 
 **2. Mobile**
 
 <p align="center">
-  <!--img src="https://i.imgur.com/D4RDkiG.png"-->
+  <img src="https://raw.githubusercontent.com/TecCheck/one_light_theme/master/res/screenshot_mobile.png">
 </p>
 
 ### Preparation
