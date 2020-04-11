@@ -1,4 +1,8 @@
 # One Light Theme
+
+
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+
 A Home Assistant theme inspired by atoms one light theme.
 
 There is also [One Dark](https://github.com/TecCheck/one_dark_theme)
